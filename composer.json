@@ -30,9 +30,9 @@
             "@phan",
             "@cs",
             "@test"
-        ],
-        "license": "GPL-3.0",
-        "bin": ["buscar-cursos.php"]
-    }
-    
+        ]
+
+    },
+    "license": "GPL-3.0",
+    "bin": ["buscar-cursos.php"]
 }
