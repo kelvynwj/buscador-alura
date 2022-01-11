@@ -33,7 +33,6 @@
         ],
         "license": "GPL-3.0",
         "bin": ["buscar-cursos.php"]
-    },
-
-
+    }
+    
 }
